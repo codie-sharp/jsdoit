@@ -1,17 +1,3 @@
 <template>
-  <div>
-    <HelloClarice />
-  </div>
+  <h1>🤙 This page will introduce my projects and I ✌</h1>
 </template>
-
-<script lang="ts">
-import { defineComponent } from "vue";
-import HelloClarice from "@/components/HelloClarice.vue"; // @ is an alias to /src
-
-export default defineComponent({
-  name: "HomeView",
-  components: {
-    HelloClarice,
-  },
-});
-</script>
