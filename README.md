@@ -1,4 +1,4 @@
-# [jsdoit](jsdoit.org)
+# [jsdoit](http://www.jsdoit.org/)
 
 ## Project setup
 ```
